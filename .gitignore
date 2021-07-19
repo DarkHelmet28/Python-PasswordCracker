@@ -11,6 +11,9 @@ pyproject.toml
 # VS Code
 .vscode/
 
+# Wordlist
+Wordlists/
+
 # C extensions
 *.so
 
